@@ -12,6 +12,5 @@
 - Development Tool: Microsoft Visual Studio 2010
 - Language: C++, MFC
 
-# Summary
-- This is applied a mechanism, the stop and wait ARQ.
+# Etc.
 - This project is extended from IPC project.
