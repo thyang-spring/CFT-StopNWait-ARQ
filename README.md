@@ -4,8 +4,8 @@
 - Thus, a transmission speed is very low.
 - CFT is suitable for a transmission for small data.
 - This mechanism operates with two rules as follows:
-1) the sender transmits a DATA message after receiving the ACK message.
-2) the receiver transmits a ACK message after receiving a DATA message.
+  1) the sender transmits a DATA message after receiving the ACK message.
+  2) the receiver transmits a ACK message after receiving a DATA message.
 - Hence, this mechanism is one of reliable communications.
 
 # Environment
